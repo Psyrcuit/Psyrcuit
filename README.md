@@ -1,23 +1,24 @@
-# Psyrcuit
+# Chase Lance
+**AI deployment & implementation. Founder, Psyrcuit.**
 
-AI Solutions Engineer shipping a public demo portfolio. One ship every 1-2 weeks using Claude Code. Pareto top 0.1% contributor on frontier-lab training data (Anthropic, Stanford, NYU, ByteDance, Imbue).
+I ship production AI in regulated environments, directing the build through Claude Code. I pick the target, design the system, run the evaluations, and own the outcome. Pareto.ai top 0.1% contributor on frontier-lab training data for Anthropic, Stanford, NYU, ByteDance, and Imbue.
 
-Currently working through a 7-build portfolio: AI legibility tools, personal-corpus introspection, MCP servers, and a self-evolving multi-model game arena.
+## In production
 
-## Currently shipped
+**MFC**: an AI estimating platform for an aerospace and defense metal-finishing shop, built and deployed under CMMC, ITAR, AS9100, and NADCAP with a fully offline architecture. First deployment cut estimating workload 60% and let the team run on half the estimators. Owned by my LLC, licensed back to the customer. On top of it: a multi-channel AI support system across email, web, and SMS, with specialized agents per function and a validated human-in-the-loop config editor.
 
-**[Mirror](https://mirror.psyrcuit.com)**: vision-model personality identikit. Upload a photo of your bookshelf or workspace. Returns five personality traits, a synthesis paragraph, and a one-line vibe summary. Built on Claude Opus 4.7. [Source](https://github.com/Psyrcuit/mirror).
+## Public demos
+
+**Mirror**: vision-model personality identikit. Upload a photo of your bookshelf or workspace; get five traits, a synthesis paragraph, and a one-line vibe. Dual-provider failover (Claude Opus 4.7 + GPT-4o) with responsible-AI guardrails. [Live](https://mirror.psyrcuit.com) · [Source](https://github.com/psyrcuit/mirror)
+
+**AISE 2026**: an interactive map of the modern AI build domain, 514 concepts across 16 modules. Built through Claude Code using a four-agent review gauntlet that gates every milestone. [Live](https://aise.psyrcuit.com)
 
 ## What's coming
 
-Six more builds through July. Full lineup, ship cadence, and live links: [psyrcuit.com/portfolio](https://psyrcuit.com/portfolio).
-
-## Also operating
-
-A small CMMC-compliant aerospace SaaS.
+A new public AI build every 1-2 weeks, seven in all. Full lineup, cadence, and live links: [psyrcuit.com/portfolio](https://psyrcuit.com/portfolio).
 
 ## Contact
 
-- [chase@psyrcuit.com](mailto:chase@psyrcuit.com)
-- [LinkedIn](https://www.linkedin.com/in/chasejlance/)
+- chase@psyrcuit.com
+- [LinkedIn](https://linkedin.com/in/chasejlance)
 - [Calendly](https://calendly.com/chase-psyrcuit/30min)
